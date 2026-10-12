@@ -7,6 +7,14 @@ _This is a Final Project for MA2012 (Introduction to Mechatronics System Design)
 ![Bus Picture](src/flag.jpg)
 ![Bus Picture](src/sit.jpg)
 
+## Internal Mechanism
+<img width="361" height="517" alt="image" src="https://github.com/user-attachments/assets/fe368f6c-e647-4088-adb6-5a80ba8ec92e" />
+<img width="1026" height="1088" alt="image" src="https://github.com/user-attachments/assets/dd5f2bad-c2b6-4cf1-aeee-5805dbdd5607" />
+
+
+
+
+
 ## Contributors
 
 1. Theodore Amadeo Argasetya Atmadja <a href = "https://github.com/theodoreamadeo">(@theodoreamadeo)</a>
@@ -14,7 +22,7 @@ _This is a Final Project for MA2012 (Introduction to Mechatronics System Design)
 3. Timothy Louis Barus
 4. Antonius Ivan Setiawan Rahardja
 5. Justin <a href = "https://github.com/sntin">(@sntin)</a>
-6. Jason Jonathan
+6. Jason Jonathan <a href = "https://github.com/jejeez">(@jejeez)</a>
 7. Ivan Effendi
 8. Michelle Phylicia
 9. Mohammed Aldubaisi
