@@ -9,7 +9,7 @@ _This is a Final Project for MA2012 (Introduction to Mechatronics System Design)
 
 ## Internal Mechanism
 <img width="361" height="517" alt="image" src="https://github.com/user-attachments/assets/fe368f6c-e647-4088-adb6-5a80ba8ec92e" />
-<img width="517" height="316" alt="image" src="https://github.com/user-attachments/assets/dd5f2bad-c2b6-4cf1-aeee-5805dbdd5607" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dd5f2bad-c2b6-4cf1-aeee-5805dbdd5607" />
 
 
 
